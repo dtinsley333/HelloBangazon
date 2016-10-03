@@ -2,9 +2,6 @@
 
 ##You will learn the basics of the C# language. For more detail visit https://docs.microsoft.com/en-us/dotnet/articles/csharp/tour-of-csharp/index or https://www.microsoft.com/net/tutorials/csharp/getting-started
 
-A code sample for the finished app can be found here: https://github.com/dtinsley333/HelloBangazon
-
-
 Let' start by building a simple application. We will look at the program structure. 
 
 1. Create a new folder called "HelloBangazon"
@@ -19,7 +16,6 @@ It starts with the class called "Program". The function "Main" in the starting p
 
 Notice the "using" statement. In this case we are using the "System" namespace. A name space is a way of organizing programs and libraries.
 The "System" name space contains many types including console, which is referenced in the program. 
-
 
 At this point the main method only writes out the phrase "Hello World".
 
