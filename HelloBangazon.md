@@ -1,6 +1,8 @@
-#C Sharp Tour (Creating and modifying a simple application)
+#C Sharp Tour (Creating and modifying a simple application using Visual Studio Code)
 
-##You will learn the basics of the C# language. For more detail visit https://docs.microsoft.com/en-us/dotnet/articles/csharp/tour-of-csharp/index or https://www.microsoft.com/net/tutorials/csharp/getting-started
+##You will learn the basics of the C# language. You will learn to create a command line app using Visual Studio Code. You can download Visual Studio at:https://code.visualstudio.com/download
+
+For more detail visit https://docs.microsoft.com/en-us/dotnet/articles/csharp/tour-of-csharp/index or https://www.microsoft.com/net/tutorials/csharp/getting-started
 
 Let' start by building a simple application. We will look at the program structure. 
 
